@@ -21,7 +21,7 @@ mobile/         imagens das seções na versão mobile
 
 ## Como ver localmente
 
-Abra o `index.html` no navegador. Para publicar, basta arrastar a pasta no Netlify ou ativar o GitHub Pages neste repositório (*Settings > Pages > Branch: main*).
+Abra o `index.html` no navegador. O site está hospedado no **Cloudflare Pages**. Para publicar uma cópia, basta enviar a pasta em *Workers & Pages > Create > Pages* ou ativar o GitHub Pages neste repositório (*Settings > Pages > Branch: main*).
 
 ## Projeto relacionado
 
